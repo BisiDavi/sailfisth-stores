@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "aos": "^2.3.4",
+    "axios": "^0.23.0",
     "leaflet": "^1.7.1",
     "next": "^10.0.0",
     "next-compose-plugins": "^2.2.0",
@@ -19,6 +20,7 @@
     "object-fit-images": "^3.2.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-hook-form": "^7.17.4",
     "react-id-swiper": "^4.0.0",
     "react-image-lightbox": "^5.1.1",
     "react-leaflet": "^2.8.0",
@@ -30,6 +32,9 @@
     "react-syntax-highlighter": "^13.5.3",
     "reactstrap": "^8.7.0",
     "sass": "^1.28.0",
-    "swiper": "^5.4.5"
+    "swell-js": "^3.10.8",
+    "swell-node": "^4.0.6",
+    "swiper": "^5.4.5",
+    "yup": "^0.32.11"
   }
 }

@@ -3,10 +3,7 @@
         "name": "White Tee",
         "link": "/detail-1",
         "slug": "white-tee",
-        "category": [
-            "Tops & blouses",
-            "tops-blouses"
-        ],
+        "category": ["Tops & blouses", "tops-blouses"],
         "img": {
             "category": [
                 {
@@ -63,10 +60,7 @@
         "name": "Black blouse",
         "link": "/detail-1",
         "slug": "black-blouse",
-        "category": [
-            "Tops & blouses",
-            "tops-blouses"
-        ],
+        "category": ["Tops & blouses", "tops-blouses"],
         "img": {
             "category": [
                 {
@@ -122,10 +116,7 @@
         "name": "College jacket",
         "link": "/detail-1",
         "slug": "college-jacket",
-        "category": [
-            "Jackets",
-            "jackets"
-        ],
+        "category": ["Jackets", "jackets"],
         "img": {
             "category": [
                 {
@@ -182,10 +173,7 @@
         "name": "Carrot-fit jeans",
         "link": "/detail-1",
         "slug": "carrot-fit-jeans",
-        "category": [
-            "Jeans",
-            "jeans"
-        ],
+        "category": ["Jeans", "jeans"],
         "img": {
             "category": [
                 {
@@ -241,10 +229,7 @@
         "name": "Striped T-Shirt",
         "link": "/detail-1",
         "slug": "striped-t-shirt",
-        "category": [
-            "Shirts",
-            "shirts"
-        ],
+        "category": ["Shirts", "shirts"],
         "img": {
             "category": [
                 {
@@ -300,10 +285,7 @@
         "name": "Short top",
         "link": "/detail-1",
         "slug": "short-top",
-        "category": [
-            "Tops & blouses",
-            "tops-blouses"
-        ],
+        "category": ["Tops & blouses", "tops-blouses"],
         "img": {
             "category": [
                 {
@@ -359,10 +341,7 @@
         "name": "Ethnic Sweater",
         "link": "/detail-1",
         "slug": "ethnic-sweater",
-        "category": [
-            "Sweaters",
-            "sweaters"
-        ],
+        "category": ["Sweaters", "sweaters"],
         "img": {
             "category": [
                 {
@@ -419,10 +398,7 @@
         "name": "Beige",
         "link": "/detail-1",
         "slug": "beige",
-        "category": [
-            "Tops & blouses",
-            "tops-blouses"
-        ],
+        "category": ["Tops & blouses", "tops-blouses"],
         "img": {
             "category": [
                 {
@@ -478,10 +454,7 @@
         "name": "Skull Tee",
         "link": "/detail-1",
         "slug": "skull-tee",
-        "category": [
-            "Tops & blouses",
-            "tops-blouses"
-        ],
+        "category": ["Tops & blouses", "tops-blouses"],
         "img": {
             "category": [
                 {
@@ -537,10 +510,7 @@
         "name": "Trucker jacket",
         "link": "/detail-1",
         "slug": "trucker-jacket",
-        "category": [
-            "Jackets",
-            "jackets"
-        ],
+        "category": ["Jackets", "jackets"],
         "img": {
             "category": [
                 {
@@ -596,10 +566,7 @@
         "name": "Blouse",
         "link": "/detail-1",
         "slug": "blouse",
-        "category": [
-            "Tops & blouses",
-            "tops-blouses"
-        ],
+        "category": ["Tops & blouses", "tops-blouses"],
         "img": {
             "category": [
                 {
@@ -655,10 +622,7 @@
         "name": "Shirt",
         "link": "/detail-1",
         "slug": "shirt",
-        "category": [
-            "Shirts",
-            "shirts"
-        ],
+        "category": ["Shirts", "shirts"],
         "img": {
             "category": [
                 {
