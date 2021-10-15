@@ -1,4 +1,4 @@
-import {swellInstance} from '../swell/config'
+import { swellInstance } from "../swell/config";
 
 export default function useAccount() {
     async function createUserAccount(name, email, password) {

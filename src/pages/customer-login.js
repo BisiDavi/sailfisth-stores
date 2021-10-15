@@ -17,7 +17,7 @@ import {
     Button,
 } from "reactstrap";
 import { useForm } from "react-hook-form";
-import { useAccount } from "../hooks/useAccount";
+import useAccount from "../hooks/useAccount";
 
 import Link from "next/link";
 export async function getStaticProps() {
@@ -191,7 +191,7 @@ export default function CustomerLogin() {
                                             <Input
                                                 id="confirmPasswordSignup"
                                                 type="password"
-																								required
+                                                required
                                             />
                                         </FormGroup>
                                         <Button color="dark" type="submit">
